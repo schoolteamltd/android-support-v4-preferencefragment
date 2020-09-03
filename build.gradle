@@ -18,7 +18,7 @@ version = VERSION
 group = GROUP
 
 dependencies {
-    implementation 'com.android.support:support-v4:26.1.0'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
 }
 
 android {
